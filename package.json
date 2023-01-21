@@ -1,0 +1,25 @@
+{
+  "name": "image-generator",
+  "version": "0.0.1",
+  "description": "image generator app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snejati86/image-generator.git"
+  },
+  "keywords": [
+    "ml",
+    "image",
+    "cnn",
+    "yolo"
+  ],
+  "author": "Sina Nejati",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/snejati86/image-generator/issues"
+  },
+  "homepage": "https://github.com/snejati86/image-generator#readme"
+}
